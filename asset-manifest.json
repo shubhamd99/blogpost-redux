@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blogpost-redux/static/css/main.a4159582.chunk.css",
+    "main.js": "/blogpost-redux/static/js/main.30407b35.chunk.js",
+    "main.js.map": "/blogpost-redux/static/js/main.30407b35.chunk.js.map",
+    "runtime~main.js": "/blogpost-redux/static/js/runtime~main.98ef5386.js",
+    "runtime~main.js.map": "/blogpost-redux/static/js/runtime~main.98ef5386.js.map",
+    "static/js/2.e0c8742e.chunk.js": "/blogpost-redux/static/js/2.e0c8742e.chunk.js",
+    "static/js/2.e0c8742e.chunk.js.map": "/blogpost-redux/static/js/2.e0c8742e.chunk.js.map",
+    "index.html": "/blogpost-redux/index.html",
+    "precache-manifest.2e59c90b0172f66f46bc531571850263.js": "/blogpost-redux/precache-manifest.2e59c90b0172f66f46bc531571850263.js",
+    "service-worker.js": "/blogpost-redux/service-worker.js",
+    "static/css/main.a4159582.chunk.css.map": "/blogpost-redux/static/css/main.a4159582.chunk.css.map"
+  }
+}
